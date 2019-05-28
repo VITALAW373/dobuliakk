@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+
+header {
+    height: 679px;
+    background-image: url(../img/devka.jpg);
+}
+div {
+    margin-left: 20px;
+    
+}
+
+nav {
+    display: inline;
+    float: right;
+    
+}
+
+
+p {
+    margin-left: 70px;
+    margin-top: -30px;
+}
+ul li {
+    float: left;
+    margin-right: 20px; 
+}
+
+
+li {
+    list-style-type: none;
+}
+li a {
+    /* Style for "Home" */
+    width: 680px;
+    height: 10px;
+    color: #272727;
+    font-family: latto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+main {
+    display: inline-block;
+}
+aside {
+    margin-top: 20px;
+}
+h1 {
+    text-align: center;
+    margin-left: 500px;
+}
+h2 {
+    margin-left: 110px;
+}
+ article figure {
+     float: right;
+     margin-left: 20px;
+     margin-right: 50px;
+     margin-bottom: 20px;
+     margin-top: 20px;
+}
+figcaption {
+    text-align: center;
+}
+section {
+    float: right;
+}
+footer {
+    
+    height: 520px;
+    background-image: url("../img/foter.png")
+     
+}
+footer sub {
+   
+   position: relative;
+   
+}
+sub {
+   
+    
+   bottom: -480px;
+   margin-left: 20px;
+   
+}
+sub a {
+    text-decoration: none;
+}
+
+
+
+
+
+
